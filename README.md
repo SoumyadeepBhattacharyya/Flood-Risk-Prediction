@@ -185,6 +185,7 @@ Lagged river levels, rolling averages, and elevation emerged as dominant predict
 
 ## 5.8 Dashboard Development (Tableau)
 
+**Tableau Link :** https://public.tableau.com/app/profile/soumyadeep.bhattacharyya/viz/Flood_17659761446430/Dashboard1?publish=yes
 * KPI cards for rainfall, river level, and flood risk
 * Temporal and city-wise flood trends
 * Map-based flood risk visualization
