@@ -8,8 +8,8 @@ Week 6 report and the corresponding data files &amp; Explanation for the  (13) F
 **Group Members**
 
 * Yogeshwaran N
-* Soumyadeep Bhattacharyya
-* **Ramkrishna Ghosh**
+* **Soumyadeep Bhattacharyya**
+* Ramkrishna Ghosh
 
 
 ## 1. Introduction
